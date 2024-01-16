@@ -1,6 +1,6 @@
 Git commands: 
 
-local repository: my own machine
+local repository: my own machine  
 remote repository: github
 
 staging area: where you add files to be committed
